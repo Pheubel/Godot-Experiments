@@ -1,3 +1,6 @@
 [submodule "Pong"]
 	path = Pong
 	url = https://github.com/Pheubel/Godot-experiments-pong.git
+[submodule "JumpGuy"]
+	path = JumpGuy
+	url = https://github.com/Pheubel/JumpGuy.git
